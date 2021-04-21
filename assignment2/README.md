@@ -1,6 +1,8 @@
 # CMPE-279
 
-Assignment 1
+Assignment 2
+
+Worked alone: Deepa Vyasabhat
 
 Tested on Google Cloud VM
 
